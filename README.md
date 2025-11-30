@@ -37,11 +37,6 @@ pip install opencv-python mediapipe numpy scipy
 4. Results, including face statistics, are displayed with colored overlays live.
 5. FPS is shown in the top left corner for performance monitoring.
 
-## File Structure
-
-- `OpenCV_Project.ipynb`: Jupyter notebook containing all code, configuration, and helper functions for landmark processing, blink/mouth detection, and drawing utilities.
-- `README.md`: Project documentation
-- `test_video.mp4`: Sample test video demonstrating the detection system
 
 ## Usage Instructions
 
